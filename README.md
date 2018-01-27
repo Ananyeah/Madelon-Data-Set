@@ -1,4 +1,4 @@
-# Madelon Data Set Problem Statement
+# A Problem Statement for the Madelon Data Set 
 ## Steven Slezak
 ### 27 January 2018
 
