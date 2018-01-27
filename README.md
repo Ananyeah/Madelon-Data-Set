@@ -109,5 +109,5 @@ Isabelle Guyon, Steve Gunn, Masoud Nikravesh, Lofti Zadeh (Eds.), Feature Extrac
 
 ### Python Notebook with Associated *R* Code
 
-The Python Notebook with associated *R* code can be found in the *ipynb* directory attached to this GitHub repository.
+The Python Notebook with associated *R* code can be found in the *ipynb* directory [attached to this GitHub repository.](https://github.com/seslezak/Madelon-Data-Set/blob/master/ipynb/01-data-description-ses.ipynb)
 
